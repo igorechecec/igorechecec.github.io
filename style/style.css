@@ -58,3 +58,10 @@ body{
 .active{
 	opacity: 1 !important;
 }
+
+@media only screen and (max-width < 400){
+	
+	.header .nav_wrap .nav li{
+		display: block;
+	}
+} 

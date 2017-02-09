@@ -8,14 +8,14 @@ body{
 }
 
 .header{
-	position: ixed;
+	position: fixed;
 	top:0px;
 	height: 80px;
 	width: 100%;
 }
 
 .header .nav_wrap{
-	width:270px;
+	width:260px;
 	margin: 0 auto;
 	margin-top: 20px;
 }
